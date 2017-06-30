@@ -1,0 +1,16 @@
+.kaweb-menu{
+  width: 120px;
+  height: 100%;
+  background-color: #5B4044;
+  color: #FFF;
+  ul{
+    li{
+      height: 50px;
+      text-align: center;
+      line-height: 50px;
+      &.active{
+        background-color: #6E565A;
+      }
+    }
+  }
+}
